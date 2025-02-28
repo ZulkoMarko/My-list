@@ -5,6 +5,8 @@ header{text-align:center}
 margin-top:100px;
 margin-left:250px;
 padding:20px;};
+
+
 .items li {
     border: 1px solid #000000;}
 
@@ -13,6 +15,8 @@ padding:20px;};
     border: none;
     border-radius: 5px;
     padding: 5px 10px;
-    cursor: pointer;}
+    cursor: pointer;
+margin-left:100px;}
     #buton:hover{background-color: red;}
-   
+ #item-list li{border:1px solid gray;
+width:45%};
