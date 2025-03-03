@@ -25,7 +25,7 @@ function createButton(ids){
 }
 
 function removeItem(e){
-    if(e.target.parentElement){if (confirm("Are you sure?"));
+    if(e.target.parentElement){if (confirm("Are you sure?"))
 {e.target.parentElement.remove()}
     
 }}
